@@ -27,7 +27,7 @@
                 <configuration>
                     <changeLogFile>src/main/java/liquibase/changeLogFile.xml</changeLogFile>
                     <driver>com.mysql.jdbc.Driver</driver>
-                    <url>jdbc:mysql://localhost/database_store</url>
+                    <url>jdbc:mysql://localhost/store7</url>
                     <username>javahero</username>
                     <password>12345678</password>
                 </configuration>
