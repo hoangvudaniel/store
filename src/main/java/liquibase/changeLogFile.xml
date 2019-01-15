@@ -24,7 +24,7 @@
 
         <!--    order-->
         <createTable tableName="order" >
-            <column name="order_id" type="int">
+            <column name="order_id" type="int" autoIncrement="true">
                 <constraints primaryKey="true" nullable="false"/>
             </column>
             <column name="date_create" type="date">
